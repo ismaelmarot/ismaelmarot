@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @ismaelmarot
 - I'm interested in learning everything related to programming.
-- I'm currently using HTML5, CSS3 (SASS), JAVASCRYPT, PHP.
+- I'm currently using HTML5, CSS3 (SASS), JAVASCRYPT, PHP, BOOTSTRAP
 
 
 <!---
