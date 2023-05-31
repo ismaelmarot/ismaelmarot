@@ -9,7 +9,7 @@ I love nature.
 In my free time I practice surf and kitesurfing.
 <br>
 And I live with a cat!
-![Texto alternativo](https://media.tenor.com/hQA6jk2FxwQAAAAC/ryu-hadouken.gif)
+![Texto alternativo](h[ttps://media.tenor.com/hQA6jk2FxwQAAAAC/ryu-hadouken.gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif))
 
 
 Hi you! I'm Ismael aka BamBam, a passionate Jr developer with a love for code. <br><br><br><br>
