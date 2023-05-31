@@ -1,31 +1,31 @@
-# 💫 About Me:
-Hello! I'm Ismael.
+#💫 About Me:
+Hi There! I'm Ismael aka BamBam.
+<br>
+I'm passionate Jr Dev with a love for code. I dream of creating efficient solutions for everyday problems.
 <br>
 <br>
-I love programming and I am looking to colaborate on IT projects.
-<br>
-I love nature.
-<br>
-In my free time I practice surf and kitesurfing.
-<br>
-And I live with a cat!
-![Texto alternativo](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
-
-
-Hi you! I'm Ismael aka BamBam, a passionate Jr developer with a love for code. <br><br><br><br>
-I dream of creating efficient solutions for everyday problems.<br>
-
 What do I think?
 <br>
 *More code every day*  &#8594;  *Fewer problems*  &#8594;  *An easier life*  &#8594;  *A better life!*
-
+<br>
+<br>
 While I have knowledge in languages like Java, Python, or PHP, my true love lies in Front-End development. React and CSS (SASS) are my passion, I adore them!
 
 I enjoy tackling challenges and finding creative solutions to overcome them. If you take a look at my GitHub profile, you'll find evidence of my skills.
 
 I'm always keeping up with the latest trends and open to learning new technologies. I firmly believe in collaboration and the exchange of knowledge, so I'm excited about any opportunity to collaborate or contribute to interesting projects.
-
+<br>
 Feel free to visit my GitHub profile and reach out to me if you have any questions or collaboration proposals!
+
+About me:
+I love nature.
+<br>
+In my free time I practice surf and kitesurfing.
+<br>
+And I live with a cat!
+
+![alt_text](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+
 
 
 ## 🌐 Socials:
