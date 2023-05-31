@@ -6,6 +6,21 @@ In my free time I practice surf and kitesurfing.<br>
 And I live with a cat!
 
 
+Hi you! I'm Ismael aka BamBam, a passionate Jr developer with a love for code. <br><br><br><br>
+I dream of creating efficient solutions for everyday problems.<br>
+
+What do I think?
+More code every day &#8594; Fewer problems &#8594; An easier life &#8594; A better life!
+
+While I have knowledge in languages like Java, Python, or PHP, my true love lies in Front-End development. React and CSS (SASS) are my passion, I adore them!
+
+I enjoy tackling challenges and finding creative solutions to overcome them. If you take a look at my GitHub profile, you'll find evidence of my skills.
+
+I'm always keeping up with the latest trends and open to learning new technologies. I firmly believe in collaboration and the exchange of knowledge, so I'm excited about any opportunity to collaborate or contribute to interesting projects.
+
+Feel free to visit my GitHub profile and reach out to me if you have any questions or collaboration proposals!
+
+
 ## 🌐 Socials:
 [![Netlify](https://img.shields.io/badge/Netlify-%23E60023.svg?logo=Netlify&logoColor=white)](https://ismaelmarot.netlify.app)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ismaelmarot) 
