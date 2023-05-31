@@ -16,7 +16,7 @@ I dream of creating efficient solutions for everyday problems.<br>
 
 What do I think?
 <br>
-*More code every day*  &#8594;  *Fewer problems*  &#8594;  *An easier life*  &#8594;  *A better life!*
+*More code every day *  &#8594;  *Fewer problems *  &#8594;  *An easier life *  &#8594;  *A better life!*
 
 While I have knowledge in languages like Java, Python, or PHP, my true love lies in Front-End development. React and CSS (SASS) are my passion, I adore them!
 
