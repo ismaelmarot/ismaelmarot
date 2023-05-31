@@ -1,4 +1,3 @@
-#💫 About Me:
 Hi There! I'm Ismael aka BamBam.
 <br>
 I'm passionate Jr Dev with a love for code. I dream of creating efficient solutions for everyday problems.
@@ -17,7 +16,7 @@ I'm always keeping up with the latest trends and open to learning new technologi
 <br>
 Feel free to visit my GitHub profile and reach out to me if you have any questions or collaboration proposals!
 
-About me:
+#💫 About Me:
 I love nature.
 <br>
 In my free time I practice surf and kitesurfing.
