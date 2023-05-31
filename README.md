@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello! I'm Ismael.<br><br>I love programming and I am looking to colaborate on IT projects.<br><br>I'm currently learning React and Typescript.<br><br>I love nature.<br>In my free time I practice surf and kitesurfing.<br><br>And I live with a cat!
+Hello! I'm Ismael.<br><br>
+I love programming and I am looking to colaborate on IT projects.<br>
+I love nature.<br>
+In my free time I practice surf and kitesurfing.<br>
+And I live with a cat!
 
 
 ## 🌐 Socials:
