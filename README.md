@@ -2,7 +2,7 @@ Hi There!
 <br>
 I'm **Ismael** aka **BamBam**.
 <br>
-I'm passionate Jr Dev with a love for code. I dream of creating efficient solutions for everyday problems. :computer:
+As a passionate Jr Dev, I have a love for code and dream of creating efficient solutions for everyday problems. :computer:
 <br>
 <br>
 What do I think?
