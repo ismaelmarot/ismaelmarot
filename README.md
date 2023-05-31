@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Ismael.<br><br>
+Hello! I'm Ismael.<br><br><br><br>
 I love programming and I am looking to colaborate on IT projects.<br>
 I love nature.<br>
 In my free time I practice surf and kitesurfing.<br>
