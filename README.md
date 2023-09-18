@@ -6,8 +6,13 @@
 
 <br>
 
+<div align="center">
+   <h3>
+      I'm Ismael aka BamBam.   
+   </h3>   
+</div>
 
-
+<div align="left">
 <br>
 As a passionate Dev, I have a love for code and dream of creating efficient solutions for everyday problems. :computer:
 <br>
@@ -53,5 +58,5 @@ And I live with a :cat2:!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ismaelmarot&icon=2&color=1)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
