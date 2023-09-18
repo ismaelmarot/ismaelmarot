@@ -6,11 +6,7 @@
 
 <br>
 
-<div align="center">
-   <h3>
-      I'm Ismael aka BamBam.   
-   </h3>   
-</div>
+
 
 <br>
 As a passionate Dev, I have a love for code and dream of creating efficient solutions for everyday problems. :computer:
