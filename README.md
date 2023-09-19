@@ -1,45 +1,58 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ismaelmarot.ismaelmarot"/>
-
+<div>
+   
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+There!+I'm+Ismael+Marot!;" /›
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hello+There!+I'm+BamBam!;"/›
 </h1>
-
+</div>
 <br>
 
 <div align="center">
    <h3>
-      I'm Ismael aka BamBam.   
+      I'm Ismael Marot aka BamBam.   
    </h3>   
 </div>
 
 <div align="left">
 <br>
 As a passionate Dev, I have a love for code and dream of creating efficient solutions for everyday problems. :computer:
-<br>
-<br>
+
 What do I think?
-<br>
+
 *More code every day*  &#8594;  *Fewer problems*  &#8594;  *An easier life*  &#8594;  *A better life!*
-<br>
-<br>
+
 While I have knowledge in languages like Java, Python, or PHP, my true love lies in Front-End development. React and CSS (SASS) are my passion, I adore them!
-<br>
+
 I enjoy tackling challenges and finding creative solutions to overcome them. If you take a look at my GitHub profile, you'll find evidence of my skills.
+ 
 I'm always keeping up with the latest trends and open to learning new technologies. I firmly believe in collaboration and the exchange of knowledge, so I'm excited about any opportunity to collaborate or contribute to interesting projects.
-<br>
+
 Feel free to visit my GitHub profile and reach out to me if you have any questions or collaboration proposals!
+</div>
 
-#💫 About Me:
-<br>
-I love nature.
-<br>
-In my free time I practice kitesurfing and :lotus_position_man:
-<br>
-And I live with a :cat2:!
+------
 
-![alt_text](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+<b r>
+<div align="left">
+   <h3>
+   💫 About Me:
+   </h3>
+   
+   > I love nature.
+   
+   > In my free time I practice kitesurfing and :lotus_position_man:
+
+   > And I live with a :cat2:!
+</div>
 
 
+<div align="center">
+   
+   ![alt_text](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+   
+</div>
+
+------
 
 ## 🌐 Socials:
 [![Netlify](https://img.shields.io/badge/Netlify-%23E60023.svg?logo=Netlify&logoColor=white)](https://ismaelmarot.netlify.app)
@@ -58,5 +71,5 @@ And I live with a :cat2:!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ismaelmarot&icon=2&color=1)](https://visitcount.itsvg.in)
-</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
