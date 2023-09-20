@@ -55,6 +55,11 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
 ------
 
 ## 🌐 Socials:
+
+<a href="mailto:ismaelmarot@hotmail.com">
+   <img src="http://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+
 [![Netlify](https://img.shields.io/badge/Netlify-%23E60023.svg?logo=Netlify&logoColor=white)](https://ismaelmarot.netlify.app)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ismaelmarot) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismaelmarot) 
