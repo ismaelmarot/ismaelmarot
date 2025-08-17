@@ -92,6 +92,6 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
 # 📊 GitHub Stats:
 | ![](https://github-readme-stats.vercel.app/api?username=ismaelmarot&theme=prussian&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ismaelmarot&theme=prussian&hide_border=false) |
 |---|---|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelmarot&theme=prussian&hide_border=false&layout=compac&thide=python) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelmarot&theme=prussian&hide_border=false&layout=compact&theme=prussian&hide=python) |
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
