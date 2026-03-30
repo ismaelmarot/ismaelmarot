@@ -32,7 +32,7 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
 
 ------
 
-<b r>
+<br>
 <div align="left">
    <h3>
    💫 About Me:
@@ -84,6 +84,47 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ----------
+
+<br>
+
+---
+
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/frontend/public/apple-touch-icon.png" alt="Trash2Treasure Icon" width="120"/>
+    </td>
+    <td>
+      <h2>Trash2Treasure</h2>
+      <p><strong>Trash2Treasure is a community recycling mobile app where users report abandoned items and others can collect them.</strong></p>
+      <p>
+        The app promotes recycling and reuse, allowing users to earn points, 
+        complete challenges, and unlock achievements while contributing to a cleaner environment.
+      </p>
+      <!-- Contenedor flex para los botones -->
+      <div style="display: flex; gap: 50px; align-items: center; margin-top: 10px;">
+        <a href="https://ismaelmarot.github.io/Trash2Treasure/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=appveyor" alt="Live Demo Trash2Treasure" />
+        </a>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios -->
+        <a href="https://ismaelmarot.github.io/Trash2Treasure/" target="_blank">
+          <img src="https://img.shields.io/badge/Go-Live App-blue?style=for-the-badge" alt="Demo Trash2Treasure" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+---
+
+<br>
+
+---
+
 
 # 📊 GitHub Stats:
 | ![](https://github-readme-stats.vercel.app/api?username=ismaelmarot&theme=prussian&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ismaelmarot&theme=prussian&hide_border=false) |
