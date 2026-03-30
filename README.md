@@ -103,13 +103,9 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
       </p>
       <!-- Contenedor flex para los botones -->
       <div style="display: flex; gap: 50px; align-items: center; margin-top: 10px;">
-        <a href="https://ismaelmarot.github.io/Trash2Treasure/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=appveyor" alt="Live Demo Trash2Treasure" />
-        </a>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios -->
-        <a href="https://ismaelmarot.github.io/Trash2Treasure/" target="_blank">
+         <a href="https://trash2treasure-app.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Go-Live App-blue?style=for-the-badge" alt="Demo Trash2Treasure" />
-        </a>
+         </a>
       </div>
     </td>
   </tr>
