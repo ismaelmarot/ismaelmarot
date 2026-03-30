@@ -104,20 +104,28 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
       <!-- Contenedor flex para los botones -->
       <div style="display: flex; gap: 50px; align-items: center; margin-top: 10px;">
          <a href="https://trash2treasure-app.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Go-Live App-blue?style=for-the-badge" alt="Demo Trash2Treasure" />
+            <img src="https://img.shields.io/badge/Go-Live App-blue?style=for-the-badge" alt="Demo Trash2Treasure" />
+         </a>
+         &nbsp;&nbsp;&nbsp;&nbsp;
+         <a href="https://github.com/ismaelmarot/trash2treasure" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github" />
          </a>
       </div>
     </td>
   </tr>
 </table>
+<details>
+  <summary><strong>📸 View Screenshots</strong></summary>
+  <br/>
+  <!-- imágenes acá -->
+</details>
 
 
 
 
 
----
 
-<br>
+
 
 ---
 
