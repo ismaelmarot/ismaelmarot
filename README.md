@@ -182,8 +182,8 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
     <td>
       <h2>Cash Counter</h2>
        <p><strong>Cash Counter_ is a browser-based web application for counting physical banknotes and coins.</strong></p>
-      <p>A user selects a denomination, enters a quantity via a custom numeric keypad, and the application computes per-denomination subtotals and a             running grand total in real time. A summary can be exported as a PDF.
-         The application is structured as a Progressive Web App (PWA), built with **React**, **TypeScript**, and **Vite**, and is deployed on GitHub             Pages.
+      <p>A user selects a denomination, enters a quantity via a custom numeric keypad, and the application computes per-denomination subtotals and a running grand total in real time. A summary can be exported as a PDF.
+         The application is structured as a Progressive Web App (PWA), built with <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Vite</strong>, and is deployed on GitHub Pages.
       </p>
       <!-- Contenedor flex para los botones -->
       <div style="display: flex; gap: 50px; align-items: center; margin-top: 10px;">
