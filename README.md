@@ -83,43 +83,40 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-----------
-
-<br>
-
----
+------------------------------------------
 
 <table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/frontend/public/apple-touch-icon.png" alt="Trash2Treasure Icon" width="120"/>
-    </td>
-    <td>
-      <h2>Trash2Treasure</h2>
-      <p><strong>Trash2Treasure is a community recycling mobile app where users report abandoned items and others can collect them.</strong></p>
-      <p>
-        The app promotes recycling and reuse, allowing users to earn points, 
-        complete challenges, and unlock achievements while contributing to a cleaner environment.
-      </p>
-      <!-- Contenedor flex para los botones -->
-      <div style="display: flex; gap: 50px; align-items: center; margin-top: 10px;">
-         <a href="https://trash2treasure-app.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Go-Live App-blue?style=for-the-badge" alt="Demo Trash2Treasure" />
-         </a>
-         &nbsp;&nbsp;&nbsp;&nbsp;
-         <a href="https://github.com/ismaelmarot/trash2treasure" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github" />
-         </a>
-      </div>
-    </td>
+   <tr>
+      <td>
+         <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/frontend/public/apple-touch-icon.png" alt="Trash2Treasure                Icon" width="120"
+         />
+      </td>
+      <td>
+         <h2>Trash2Treasure</h2>
+         <p>
+            <strong>
+               Trash2Treasure is a community recycling mobile app where users report abandoned items and others can collect them.
+            </strong>
+         </p>
+         <p>The app promotes recycling and reuse, allowing users to earn points, complete challenges.</p>
+         <p>Yo can unlock achievements while  contributing to a cleaner environment.</p>
+         <!-- Contenedor flex para los botones -->
+         <div style="display: flex; gap: 50px; align-items: center; margin-top: 10px;">
+            <a href="https://trash2treasure-app.vercel.app/" target="_blank">
+               <img src="https://img.shields.io/badge/Go-Live App-blue?style=for-the-badge" alt="Demo Trash2Treasure" />
+            </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://github.com/ismaelmarot/trash2treasure" target="_blank">
+               <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github" />
+            </a>
+         </div>
+      </td>
   </tr>
 </table>
 <details>
-  <summary><strong>Preview Screenshots</strong></summary>
-  <br/>
-  <!-- imágenes acá -->
-
-   <br>
+   <summary><strong>Preview Screenshots</strong></summary>
+   <br/>
+     <!-- imágenes -->
    <strong>v1.1.0</strong>
    <p align="center">
      <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/docs/screenshots/screenshot-01.png" width="230"/>
@@ -138,16 +135,11 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
      &nbsp;&nbsp;&nbsp;
      <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/docs/screenshots/screenshot-08.png" width="230"/>
    </p>
-
 </details>
 
 <br>
 
-
-   <!-- xxxxxxxxx-->
-</details>
-
----
+------------------------------------------
 
 <table>
   <tr>
@@ -177,7 +169,7 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
 <details>
   <summary><strong>Preview Screenshots</strong></summary>
   <br/>
-  <!-- imágenes acá -->
+  <!-- images -->
 </details>
 
 ---
@@ -209,8 +201,25 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
 <details>
   <summary><strong>Preview Screenshots</strong></summary>
   <br/>
-  <!-- imágenes acá -->
+  <!-- images -->
+  <strong>v1.1.0</strong>
+  <p align="center">
+     <img src="https://raw.githubusercontent.com/ismaelmarot/cash-counter/main/src/screenshots/mobile_v100_00.png" width="250"/>
+     &nbsp;&nbsp;&nbsp;
+     <img src="https://raw.githubusercontent.com/ismaelmarot/cash-counter/main/src/screenshots/mobile_v110_01.png" width="250"/>
+     &nbsp;&nbsp;&nbsp;
+     <img src="https://raw.githubusercontent.com/ismaelmarot/cash-counter/main/src/screenshots/mobile_v110_02.png" width="250"/>
+  </p>
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/ismaelmarot/cash-counter/main/src/screenshots/mobile_v110_03.png" width="250"/>
+     &nbsp;&nbsp;&nbsp;
+     <img src="https://raw.githubusercontent.com/ismaelmarot/cash-counter/main/src/screenshots/mobile_v100_01.png" width="250"/>
+     &nbsp;&nbsp;&nbsp;
+     <img src="https://raw.githubusercontent.com/ismaelmarot/cash-counter/main/src/screenshots/mobile_v100_02.png" width="250"/>
+  </p>
 </details>
+
+
 
 ---
 
