@@ -165,7 +165,9 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
   <!-- images -->
 </details>
 
----
+<br>
+
+------------------------------------------
 
 <table>
   <tr>
@@ -212,9 +214,9 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
   </p>
 </details>
 
-<br/>
+<br>
 
---------------------
+------------------------------------------
 
 ## 📬 Contact
 
