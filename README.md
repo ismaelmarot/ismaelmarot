@@ -74,6 +74,8 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<br/>
+
 ------------------------------------------
 
 <table>
