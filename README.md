@@ -53,14 +53,6 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
 </div>
 
 ------
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismael-marot)
-
-<br>
-
-------
  
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
