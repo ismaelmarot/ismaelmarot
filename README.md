@@ -218,13 +218,29 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
   </p>
 </details>
 
+<br/>
 
+--------------------
 
----
+## 📬 Contact
 
-# 📊 GitHub Stats:
-| ![](https://github-readme-stats.vercel.app/api?username=ismaelmarot&theme=prussian&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ismaelmarot&theme=prussian&hide_border=false) |
-|---|---|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelmarot&theme=prussian&hide_border=false&layout=compact&hide=python,cython,powershell) |
+<p align="center">
+  Open to collaboration, feedback, and new opportunities.
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://github.com/ismaelmarot">
+  <img src="https://img.shields.io/badge/GitHub-@ismaelmarot-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ismael-marot">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://ismaelmarot.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-FF7A00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
