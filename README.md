@@ -155,6 +155,38 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
 
 ---
 
+<table>
+  <tr>
+    <td>
+     <img src="https://raw.githubusercontent.com/ismaelmarot/cash-counter/main/public/icons/icon_cap.png" alt="Cash Counter Icon" width="320"/>
+   </td>
+    <td>
+      <h2>Cash Counter</h2>
+       <p><strong>Cash Counter_ is a browser-based web application for counting physical banknotes and coins.</strong></p>
+      <p>A user selects a denomination, enters a quantity via a custom numeric keypad, and the application computes per-denomination subtotals and a             running grand total in real time. A summary can be exported as a PDF.
+         The application is structured as a Progressive Web App (PWA), built with **React**, **TypeScript**, and **Vite**, and is deployed on GitHub             Pages.
+      </p>
+      <!-- Contenedor flex para los botones -->
+      <div style="display: flex; gap: 50px; align-items: center; margin-top: 10px;">
+         <a href="https://ismaelmarot.github.io/cash-counter/" target="_blank">
+            <img src="https://img.shields.io/badge/Go-Live App-blue?style=for-the-badge" alt="Download Car Expense Tracker" />
+         </a>
+         &nbsp;&nbsp;&nbsp;&nbsp;
+         <a href="https://github.com/ismaelmarot/cash-counter" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github" />
+         </a>
+      </div>
+    </td>
+  </tr>
+</table>
+<details>
+  <summary><strong>📸 View Screenshots</strong></summary>
+  <br/>
+  <!-- imágenes acá -->
+</details>
+
+---
+
 # 📊 GitHub Stats:
 | ![](https://github-readme-stats.vercel.app/api?username=ismaelmarot&theme=prussian&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ismaelmarot&theme=prussian&hide_border=false) |
 |---|---|
