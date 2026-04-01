@@ -88,7 +88,7 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
 <table>
    <tr>
       <td>
-         <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/frontend/public/apple-touch-icon.png" alt="Trash2Treasure                Icon" width="120"
+         <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/frontend/public/apple-touch-icon.png" alt="Trash2Treasure                Icon" width="100"
          />
       </td>
       <td>
