@@ -137,7 +137,7 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
       <!-- Contenedor flex para los botones -->
       <div style="display: flex; gap: 50px; align-items: center; margin-top: 10px;">
          <a href="https://github.com/ismaelmarot/car-expense-tracker/releases" target="_blank">
-            <img src="https://img.shields.io/badge/Go-Download-App App-blue?style=for-the-badge" alt="Download Car Expense Tracker" />
+            <img src="https://img.shields.io/badge/Go-Download App-blue?style=for-the-badge" alt="Download Car Expense Tracker" />
          </a>
          &nbsp;&nbsp;&nbsp;&nbsp;
          <a href="https://github.com/ismaelmarot/car-expense-tracker" target="_blank">
