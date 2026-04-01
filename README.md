@@ -115,9 +115,36 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
   </tr>
 </table>
 <details>
-  <summary><strong>📸 View Screenshots</strong></summary>
+  <summary><strong>Preview Screenshots</strong></summary>
   <br/>
   <!-- imágenes acá -->
+
+   <br>
+   <strong>v1.1.0</strong>
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/docs/screenshots/screenshot-01.png" width="230"/>
+     &nbsp;&nbsp;&nbsp;
+     <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/docs/screenshots/screenshot-02.png" width="230"/>
+     &nbsp;&nbsp;&nbsp;
+     <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/docs/screenshots/screenshot-03.png" width="230"/>
+     &nbsp;&nbsp;&nbsp;
+     <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/docs/screenshots/screenshot-04.png" width="230"/>
+     &nbsp;&nbsp;&nbsp;
+     <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/docs/screenshots/screenshot-05.png" width="230"/>
+     &nbsp;&nbsp;&nbsp;
+     <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/docs/screenshots/screenshot-06.png" width="230"/>
+     &nbsp;&nbsp;&nbsp;
+     <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/docs/screenshots/screenshot-07.png" width="230"/>
+     &nbsp;&nbsp;&nbsp;
+     <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/docs/screenshots/screenshot-08.png" width="230"/>
+   </p>
+
+</details>
+
+<br>
+
+
+   <!-- xxxxxxxxx-->
 </details>
 
 ---
@@ -148,7 +175,7 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
   </tr>
 </table>
 <details>
-  <summary><strong>📸 View Screenshots</strong></summary>
+  <summary><strong>Preview Screenshots</strong></summary>
   <br/>
   <!-- imágenes acá -->
 </details>
@@ -180,7 +207,7 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
   </tr>
 </table>
 <details>
-  <summary><strong>📸 View Screenshots</strong></summary>
+  <summary><strong>Preview Screenshots</strong></summary>
   <br/>
   <!-- imágenes acá -->
 </details>
