@@ -120,15 +120,40 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
   <!-- imágenes acá -->
 </details>
 
-
-
-
-
-
-
-
 ---
 
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/app-icon.png" alt="Car Expense Tracker Icon" width="120"/>
+    </td>
+    <td>
+      <h2>Car Expense Tracker</h2>
+      <p><strong>An application to track car expenses, designed to simplify the management of multiple vehicles' expenses and categorize them. 
+</strong></p>
+      <p>
+        It also includes advanced features like generating PDF reports and displaying statistics through interactive charts.
+      </p>
+      <!-- Contenedor flex para los botones -->
+      <div style="display: flex; gap: 50px; align-items: center; margin-top: 10px;">
+         <a href="https://github.com/ismaelmarot/car-expense-tracker/releases" target="_blank">
+            <img src="https://img.shields.io/badge/Go-Download-App App-blue?style=for-the-badge" alt="Download Car Expense Tracker" />
+         </a>
+         &nbsp;&nbsp;&nbsp;&nbsp;
+         <a href="https://github.com/ismaelmarot/car-expense-tracker" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github" />
+         </a>
+      </div>
+    </td>
+  </tr>
+</table>
+<details>
+  <summary><strong>📸 View Screenshots</strong></summary>
+  <br/>
+  <!-- imágenes acá -->
+</details>
+
+---
 
 # 📊 GitHub Stats:
 | ![](https://github-readme-stats.vercel.app/api?username=ismaelmarot&theme=prussian&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ismaelmarot&theme=prussian&hide_border=false) |
