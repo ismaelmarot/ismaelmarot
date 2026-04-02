@@ -54,7 +54,15 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
 
 ------
  
-# 💻 Tech Stack:
+<h1 align="center">
+  <img src="https://img.icons8.com/fluency/48/maintenance.png" width="40" style="vertical-align: middle;"/>
+  Tech Stack
+</h1>
+
+<p>
+  Technologies and tools used in the development of the projects.
+</p>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -76,7 +84,11 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
 
 <br/>
 
-------------------------------------------
+<h1 align="center">
+  <img src="https://img.icons8.com/fluency/48/source-code.png" width="40" style="vertical-align: middle;"/> 
+  Some Projects
+</h1>
+
 
 <table>
    <tr>
@@ -176,7 +188,7 @@ Feel free to visit my GitHub profile and reach out to me if you have any questio
    </td>
     <td>
       <h2>Cash Counter</h2>
-       <p><strong>Cash Counter_ is a browser-based web application for counting physical banknotes and coins.</strong></p>
+       <p><strong>Cash Counter is a browser-based web application for counting physical banknotes and coins.</strong></p>
       <p>A user selects a denomination, enters a quantity via a custom numeric keypad, and the application computes per-denomination subtotals and a running grand total in real time. A summary can be exported as a PDF.
          The application is structured as a Progressive Web App (PWA), built with <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Vite</strong>, and is deployed on GitHub Pages.
       </p>
