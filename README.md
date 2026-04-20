@@ -139,18 +139,17 @@ I enjoy turning ideas into products that people can actually use.
   <summary><strong>Preview Screenshots</strong></summary>
   <br/>
   <!-- images -->
-   <strong>v2.0.1</strong>
      <p align="center">
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-01.png" width="230" height="500"/>
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-02.png" width="230" height="500"/>
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-03.png" width="230" height="500"/>
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-04.png" width="230" height="500"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-01.png" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-02.png" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-03.png" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-04.png" width="230"/>
      </p>
      <p align="center">
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-05.png" width="230" height="500"/>
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-06.png" width="230" height="500"/>
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-07.png" width="230" height="500"/>
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-08.png" width="230" height="500"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-05.png" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-06.png" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-07.png" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-08.png" width="230"/>
      </p>
 
 </details>
