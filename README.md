@@ -156,7 +156,56 @@ I enjoy turning ideas into products that people can actually use.
 
 <br>
 
+-------------------
+////////////////////////////////
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/ismaelmarot/QEntry/main/frontend/src/assets/app-icon.png" alt="Car Expense Tracker Icon" width="120"/>
+    </td>
+    <td>
+      <h2>QEntry</h2>
+      <p><strong>QEntry is a desktop access control application that allows organizations to efficiently manage the entry and exit of people in real time using QR codes.</strong></p>
+      <p>
+        The app enhances security and organization by enabling user registration, QR code generation, access logging, and monitoring of movements within a facility.
+        It also supports features like role-based access, entry validations, and activity tracking, helping administrators maintain control, ensure safety, and streamline operations.
+      </p>
+      <!-- Contenedor flex para los botones -->
+      <div style="display: flex; gap: 50px; align-items: center; margin-top: 10px;">
+         <a href="https://github.com/ismaelmarot/car-expense-tracker/releases" target="_blank">
+            <img src="https://img.shields.io/badge/Go-Download App-blue?style=for-the-badge" alt="Download Car Expense Tracker" />
+         </a>
+         &nbsp;&nbsp;&nbsp;&nbsp;
+         <a href="https://github.com/ismaelmarot/car-expense-tracker" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github" />
+         </a>
+      </div>
+    </td>
+  </tr>
+</table>
+<details>
+  <summary><strong>Preview Screenshots</strong></summary>
+  <br/>
+  <!-- images -->
+     <p align="center">
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-01.png" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-02.png" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-03.png" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-04.png" width="230"/>
+     </p>
+     <p align="center">
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-05.png" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-06.png" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-07.png" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-08.png" width="230"/>
+     </p>
+
+</details>
+
+<br>
+
 ------------------------------------------
+
 
 <table>
   <tr>
