@@ -157,7 +157,7 @@ I enjoy turning ideas into products that people can actually use.
 <br>
 
 -------------------
-////////////////////////////////
+
 <table>
   <tr>
     <td>
