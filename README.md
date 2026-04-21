@@ -161,7 +161,7 @@ I enjoy turning ideas into products that people can actually use.
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/ismaelmarot/QEntry/main/frontend/src/assets/app-icon.png" alt="Car Expense Tracker Icon" width="120"/>
+      <img src="https://raw.githubusercontent.com/ismaelmarot/QEntry/main/frontend/src/assets/app-icon.png" alt="Car Expense Tracker Icon" width="300"/>
     </td>
     <td>
       <h2>QEntry</h2>
@@ -172,11 +172,11 @@ I enjoy turning ideas into products that people can actually use.
       </p>
       <!-- Contenedor flex para los botones -->
       <div style="display: flex; gap: 50px; align-items: center; margin-top: 10px;">
-         <a href="https://github.com/ismaelmarot/car-expense-tracker/releases" target="_blank">
+         <a href="https://github.com/ismaelmarot/QEntry" target="_blank">
             <img src="https://img.shields.io/badge/Go-Download App-blue?style=for-the-badge" alt="Download Car Expense Tracker" />
          </a>
          &nbsp;&nbsp;&nbsp;&nbsp;
-         <a href="https://github.com/ismaelmarot/car-expense-tracker" target="_blank">
+         <a href="https://github.com/ismaelmarot/QEntry" target="_blank">
             <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github" />
          </a>
       </div>
@@ -188,18 +188,10 @@ I enjoy turning ideas into products that people can actually use.
   <br/>
   <!-- images -->
      <p align="center">
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-01.png" width="230"/>
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-02.png" width="230"/>
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-03.png" width="230"/>
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-04.png" width="230"/>
-     </p>
-     <p align="center">
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-05.png" width="230"/>
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-06.png" width="230"/>
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-07.png" width="230"/>
-        <img src="https://raw.githubusercontent.com/ismaelmarot/car-expense-tracker/main/assets/mob-v2-08.png" width="230"/>
-     </p>
-
+        <img src="https://raw.githubusercontent.com/ismaelmarot/QEntry/main/frontend/src/captures/mobile-01.png" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/QEntry/main/frontend/src/captures/mobile-02.png" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/QEntry/main/frontend/src/captures/mobile-03.png" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/QEntry/main/frontend/src/captures/mobile-04.png" width="230"/>
 </details>
 
 <br>
