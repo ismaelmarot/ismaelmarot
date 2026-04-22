@@ -285,7 +285,8 @@ I enjoy turning ideas into products that people can actually use.
 - 🌊 Kitesurfing  
 - ⛵ Sailing & regatta racing  
 - 🧘‍♂️ Mindfulness  
-- 🐈 Life with a cat  
+- 🐈 Life with a cat
+- ✍️ Writing on my blog 
 
 <br/>
 
