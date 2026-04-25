@@ -161,7 +161,50 @@ I enjoy turning ideas into products that people can actually use.
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/ismaelmarot/QEntry/main/frontend/src/assets/app-icon.png" alt="Car Expense Tracker Icon" width="300"/>
+      <img src="https://raw.githubusercontent.com/ismaelmarot/LinkIO/main/assets/icons/linkio-app-icon.png" alt="LinkIO Icon" width="180"/>
+    </td>
+    <td>
+      <h2>LinkIO</h2>
+      <p>
+         <strong>
+         LinkIO is a desktop link manager application that helps you organize, save and quickly access all your favorite links with a clean and modern interface inspired by Apple design.
+         </strong>
+      </p>
+      <p>
+        The app enables you to categorize links with tags, add descriptions and notes, search through your collection, and enjoy a seamless experience with dark/light mode support and full bilingual interface (English/Spanish).
+      </p>
+      <!-- Contenedor flex para los botones -->
+      <div style="display: flex; gap: 50px; align-items: center; margin-top: 10px;">
+         <a href="https://github.com/ismaelmarot/LinkIO/releases" target="_blank" target="_blank">
+            <img src="https://img.shields.io/badge/Download-App-blue?style=for-the-badge" alt="Download Car Expense Tracker" />
+         </a>
+         &nbsp;&nbsp;&nbsp;&nbsp;
+         <a href="https://github.com/ismaelmarot/LinkIO" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github" />
+         </a>
+      </div>
+    </td>
+  </tr>
+</table>
+<details>
+  <summary><strong>Preview Screenshots</strong></summary>
+  <br/>
+  <!-- images -->
+     <p align="center">
+        <img src="https://raw.github.com/ismaelmarot/LinkIO/main/assets/captures/capture_01.png" width="280"/>
+        <img src="https://raw.github.com/ismaelmarot/LinkIO/main/assets/captures/capture_02.png" width="280"/>
+        <img src="https://raw.github.com/ismaelmarot/LinkIO/main/assets/captures/capture_03.png" width="280"/>
+     </p>
+</details>
+
+<br>
+
+-------------------
+
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/ismaelmarot/QEntry/main/frontend/src/assets/app-icon.png" alt="QWntry Icon" width="300"/>
     </td>
     <td>
       <h2>QEntry</h2>
