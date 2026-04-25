@@ -18,8 +18,7 @@ I enjoy turning ideas into products that people can actually use.
    <p align="center">
      <b>More code every day</b> → 
      <b>Fewer problems</b> → 
-     <b>An easier life</b> → 
-     <b>A better life! 🚀</b>
+     <b>An easier & better life! 🚀</b>
    </p>
 
 <br/>
