@@ -175,7 +175,7 @@ I enjoy turning ideas into products that people can actually use.
       <!-- Contenedor flex para los botones -->
       <div style="display: flex; gap: 50px; align-items: center; margin-top: 10px;">
          <a href="https://github.com/ismaelmarot/LinkIO/releases" target="_blank" target="_blank">
-            <img src="https://img.shields.io/badge/Download-App-blue?style=for-the-badge" alt="Download Car Expense Tracker" />
+            <img src="https://img.shields.io/badge/Go-Download App-blue?style=for-the-badge" alt="Download LinkIO" />
          </a>
          &nbsp;&nbsp;&nbsp;&nbsp;
          <a href="https://github.com/ismaelmarot/LinkIO" target="_blank">
