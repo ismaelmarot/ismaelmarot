@@ -240,6 +240,46 @@ I enjoy turning ideas into products that people can actually use.
 
 ------------------------------------------
 
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/ismaelmarot/NauticAcademy/main/frontend/public/images/app_icons/icon-ios.png" alt="NauticAcademy Icon" width="180"/>
+    </td>
+    <td>
+      <h2>NauticAcademy</h2>
+      <p><strong>NauticAcademy is a web application for studying and preparing for the Timonel de Yate de Vela y Motor (Sailing and Motor Yacht Skipper) certification, based on the official program of the Argentine Coast Guard (Prefectura Naval Argentina).</strong></p>
+      <p>
+        The app features 6 chapters of structured nautical content with topics, sections, and integrated quizzes to test your knowledge. Progress, XP, and level tracking are persisted locally — no account or internet connection required after loading.
+      </p>
+      <div style="display: flex; gap: 50px; align-items: center; margin-top: 10px;">
+         <a href="https://frontend-dmdsxysi4-ismaelmarots-projects.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Go-Live App-blue?style=for-the-badge" alt="Live NauticAcademy" />
+         </a>
+         &nbsp;&nbsp;&nbsp;&nbsp;
+         <a href="https://github.com/ismaelmarot/NauticAcademy" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github" />
+         </a>
+      </div>
+    </td>
+  </tr>
+</table>
+<details>
+  <summary><strong>Preview Screenshots</strong></summary>
+  <br/>
+     <p align="center">
+        <img src="https://raw.githubusercontent.com/ismaelmarot/NauticAcademy/main/frontend/public/images/app_captures/cap_01.PNG" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/NauticAcademy/main/frontend/public/images/app_captures/cap_02.jpg" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/NauticAcademy/main/frontend/public/images/app_captures/cap_03.jpg" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/NauticAcademy/main/frontend/public/images/app_captures/cap_04.jpg" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/NauticAcademy/main/frontend/public/images/app_captures/cap_05.jpg" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/NauticAcademy/main/frontend/public/images/app_captures/cap_06.jpg" width="230"/>
+        <img src="https://raw.githubusercontent.com/ismaelmarot/NauticAcademy/main/frontend/public/images/app_captures/cap_07.jpg" width="230"/>
+     </p>
+</details>
+
+<br>
+
+------------------------------------------
 
 <table>
   <tr>
