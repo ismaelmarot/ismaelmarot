@@ -252,7 +252,7 @@ I enjoy turning ideas into products that people can actually use.
         The app features 6 chapters of structured nautical content with topics, sections, and integrated quizzes to test your knowledge. Progress, XP, and level tracking are persisted locally — no account or internet connection required after loading.
       </p>
       <div style="display: flex; gap: 50px; align-items: center; margin-top: 10px;">
-         <a href="https://frontend-dmdsxysi4-ismaelmarots-projects.vercel.app" target="_blank">
+         <a href="https://nautic-academy.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Go-Live App-blue?style=for-the-badge" alt="Live NauticAcademy" />
          </a>
          &nbsp;&nbsp;&nbsp;&nbsp;
