@@ -160,7 +160,7 @@ I enjoy turning ideas into products that people can actually use.
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/ismaelmarot/LinkIO/main/moodboard%20/Screenshot%202026-05-03%20at%2011.24.33.png" alt="LinkIO App Icon" width="180"/>
+      <img src="https://raw.githubusercontent.com/ismaelmarot/LinkIO/main/frontend/public/Linkio-icon-256.png" alt="LinkIO Icon" width="180"/>
     </td>
     <td>
       <h2>LinkIO</h2>
@@ -190,9 +190,9 @@ I enjoy turning ideas into products that people can actually use.
   <br/>
   <!-- images -->
      <p align="center">
-        <img src="https://raw.github.com/ismaelmarot/LinkIO/main/assets/captures/capture_01.png" width="280"/>
-        <img src="https://raw.github.com/ismaelmarot/LinkIO/main/assets/captures/capture_02.png" width="280"/>
-        <img src="https://raw.github.com/ismaelmarot/LinkIO/main/assets/captures/capture_03.png" width="280"/>
+         <img src="https://raw.githubusercontent.com/ismaelmarot/LinkIO/main/assets/captures/capture_01.png" width="280"/>
+         <img src="https://raw.githubusercontent.com/ismaelmarot/LinkIO/main/assets/captures/capture_02.png" width="280"/>
+         <img src="https://raw.githubusercontent.com/ismaelmarot/LinkIO/main/assets/captures/capture_03.png" width="280"/>
      </p>
 </details>
 
