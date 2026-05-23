@@ -160,7 +160,7 @@ I enjoy turning ideas into products that people can actually use.
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/ismaelmarot/LinkIO/main/assets/icons/linkio-app-icon.png" alt="LinkIO Icon" width="180"/>
+      <img src="https://raw.githubusercontent.com/ismaelmarot/LinkIO/main/moodboard%20/Screenshot%202026-05-03%20at%2011.24.33.png" alt="LinkIO App Icon" width="180"/>
     </td>
     <td>
       <h2>LinkIO</h2>
