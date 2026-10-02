@@ -56,7 +56,7 @@ I enjoy turning ideas into products that people can actually use.
 <table>
    <tr>
       <td>
-         <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/frontend/public/apple-touch-icon.png" alt="Trash2Treasure                Icon" width="100"
+         <img src="https://raw.githubusercontent.com/ismaelmarot/trash2treasure/main/frontend/public/icon-192.png" alt="Trash2Treasure                Icon" width="100"
          />
       </td>
       <td>
@@ -160,7 +160,7 @@ I enjoy turning ideas into products that people can actually use.
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/ismaelmarot/LinkIO/main/assets/icons/linkio-app-icon.png" alt="LinkIO Icon" width="180" style="border-radius: 22px;"/>
+      <img src="https://raw.githubusercontent.com/ismaelmarot/LinkIO/main/frontend/public/icons/icon-192x192.png" alt="LinkIO Icon" width="180" style="border-radius: 22px;"/>
     </td>
     <td>
       <h2>LinkIO</h2>
@@ -243,7 +243,7 @@ I enjoy turning ideas into products that people can actually use.
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/ismaelmarot/NauticAcademy/main/frontend/public/images/app_icons/icon-ios.png" alt="NauticAcademy Icon" width="180"/>
+      <img src="https://raw.githubusercontent.com/ismaelmarot/NauticAcademy/main/frontend/public/images/app_icons/icon-ios-192.png" alt="NauticAcademy Icon" width="180"/>
     </td>
     <td>
       <h2>NauticAcademy</h2>
@@ -284,7 +284,7 @@ I enjoy turning ideas into products that people can actually use.
 <table>
   <tr>
     <td>
-     <img src="https://raw.githubusercontent.com/ismaelmarot/cash-counter/main/public/icons/icon_cap.png" alt="Cash Counter Icon" width="320"/>
+     <img src="https://raw.githubusercontent.com/ismaelmarot/cash-counter/main/public/icons/android-chrome-192x192.png" alt="Cash Counter Icon" width="320"/>
    </td>
     <td>
       <h2>Cash Counter</h2>
