@@ -385,7 +385,7 @@ I enjoy turning ideas into products that people can actually use.
   <img src="https://img.shields.io/badge/GitHub-@ismaelmarot-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ismael-marot">
+  <a href="https://linkedin.com/in/ismael-marot-1aab33440">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;
